@@ -1,0 +1,9 @@
+name "hello_sdl2"
+description "A minimal D application."
+authors "fitbos"
+copyright "Copyright © 2018, fitbos"
+license "proprietary"
+
+dependency "derelict-sdl2" version="~>3.0.0-beta"
+
+targetPath "./bin"
